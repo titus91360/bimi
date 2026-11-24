@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <title>Marischaël</title>
+  <defs>
+    <linearGradient id="bg-gradient" x1="150" y1="150" x2="850" y2="850" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D63ED"/>
+      <stop offset="0.5" stop-color="#0EA5A4"/>
+      <stop offset="1" stop-color="#00D26A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="#FFFFFF"/>
+  <circle cx="500" cy="500" r="365" fill="#0B3B4C"/>
+  <circle cx="500" cy="500" r="338" fill="url(#bg-gradient)"/>
+  <path d="M 322 630 L 372 370 L 500 582 L 628 370 L 678 630" 
+        fill="none" 
+        stroke="#FFFFFF" 
+        stroke-width="102" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+</svg>
